@@ -1,0 +1,5 @@
+Una cuesti√≥n si quiero una divisi√≥n entero a pesar de que el residuo sea distinto de 0.
+ En R debo de declararlo como:
+    1) x%% y donde x es el divisor y "y" es el dividendo.
+
+Utiliza notaci®Æn cientifica. Para n®≤meros extremadamente grandes.
